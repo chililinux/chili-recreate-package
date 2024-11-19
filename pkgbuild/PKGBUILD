@@ -1,7 +1,7 @@
 # Maintainer: Vilmar Catafesta <vcatafesta@gmail.com>
 
-pkgname=chili-pkgname
-pkgdesc="Package template for Chililinux"
+pkgname=chili-recreate-package
+pkgdesc="Recreate Arch package from installed files"
 #depends=('')
 #makedepends=('')
 #optdepends=('')
